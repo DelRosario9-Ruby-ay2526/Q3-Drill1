@@ -1,0 +1,16 @@
+.container{
+    padding: 5px;
+    text-align: center;
+    background-color: #2f1180;
+    border: 3px solid black;
+    border-radius: 50px;
+    width: 1000px;
+    margin-top: 250px;
+}
+.containertwo{
+    text-align: center;
+    background-color: #fd9400;
+    border: 1px solid black;
+    border-radius: 60px;
+    padding: 10px;
+}
